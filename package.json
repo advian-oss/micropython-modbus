@@ -1,40 +1,44 @@
 {
     "urls": [
         [
-            "umodbus/__init__.py",
-            "github:brainelectronics/micropython-modbus/umodbus/__init__.py"
-        ],
-        [
-            "umodbus/common.py",
-            "github:brainelectronics/micropython-modbus/umodbus/common.py"
-        ],
-        [
-            "umodbus/const.py",
-            "github:brainelectronics/micropython-modbus/umodbus/const.py"
+            "umodbus/compat_utils.py",
+            "github:brainelectronics/micropython-modbus/umodbus/compat_utils.py"
         ],
         [
             "umodbus/functions.py",
             "github:brainelectronics/micropython-modbus/umodbus/functions.py"
         ],
         [
-            "umodbus/modbus.py",
-            "github:brainelectronics/micropython-modbus/umodbus/modbus.py"
+            "umodbus/version.py",
+            "github:brainelectronics/micropython-modbus/umodbus/version.py"
         ],
         [
-            "umodbus/serial.py",
-            "github:brainelectronics/micropython-modbus/umodbus/serial.py"
+            "umodbus/__init__.py",
+            "github:brainelectronics/micropython-modbus/umodbus/__init__.py"
         ],
         [
             "umodbus/tcp.py",
             "github:brainelectronics/micropython-modbus/umodbus/tcp.py"
         ],
         [
+            "umodbus/common.py",
+            "github:brainelectronics/micropython-modbus/umodbus/common.py"
+        ],
+        [
+            "umodbus/serial.py",
+            "github:brainelectronics/micropython-modbus/umodbus/serial.py"
+        ],
+        [
+            "umodbus/modbus.py",
+            "github:brainelectronics/micropython-modbus/umodbus/modbus.py"
+        ],
+        [
             "umodbus/typing.py",
             "github:brainelectronics/micropython-modbus/umodbus/typing.py"
         ],
         [
-            "umodbus/version.py",
-            "github:brainelectronics/micropython-modbus/umodbus/version.py"
+            "umodbus/const.py",
+            "github:brainelectronics/micropython-modbus/umodbus/const.py"
         ]
     ],
     "deps": [],
